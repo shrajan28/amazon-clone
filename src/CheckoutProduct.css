@@ -1,0 +1,21 @@
+.checkout__product{
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+}
+.product__left>img{
+    object-fit: contain;
+    height: 200px;
+    width: 180px;
+}
+.product__right{
+    margin-top: -29px;
+    margin-left: 10px;
+}
+.product__right>button{
+    background-color:#f0c14b;
+    border: 1px solid;
+    border-color: #a88734 #9c7e31 #846a29;
+    margin-top: 15px;
+
+}
